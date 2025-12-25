@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Terms of Service — Inventomo",
+  "url": "https://inventomo.site/Legal/Terms-of-service.html",
+  "description": "Read the terms and conditions for using Inventomo's website, products, and services.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inventomo",
+    "url": "https://inventomo.site",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://inventomo.site/assests/img/inventomo_white.png"
+    }
+  }
+}

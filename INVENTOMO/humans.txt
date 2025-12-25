@@ -1,0 +1,13 @@
+/* ==================== TEAM INFORMATION ==================== */
+Developer: INVENTOMO Team
+Website: https://inventomo.site
+Email: inventomo.sales@gmail.com
+WhatsApp: +923291705576
+
+/* ==================== COMPANY DETAILS ==================== */
+Company: Inventomo - World's First AI Powered Web Agency
+Services: Web Development, SEO, AI Integration, Graphic Design, Hosting, Digital Marketing, Shopify, WordPress, Chatbot Solutions.
+Location: Dubai, UAE.
+
+/* ==================== ACKNOWLEDGEMENTS ==================== */
+Thank you to all our clients for supporting innovation globally.

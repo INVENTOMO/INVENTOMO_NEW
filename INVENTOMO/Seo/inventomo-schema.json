@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://inventomo.site/#business",
+      "name": "Inventomo",
+      "description": "Modern Web Design & Development Agency creating pixel-perfect websites with black & white designs.",
+      "url": "https://inventomo.site",
+      "logo": "https://inventomo.site/assests/img/inventomo_white.png",
+      "priceRange": "$$$-premium-&-affordable",
+      "openingHours": "24/7",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Remote",
+        "addressCountry": "Worldwide"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+92-329-170-5576",
+        "contactType": "Customer Support",
+        "email": "inventomo.sales@gmail.com",
+        "availableLanguage": ["English", "Urdu"]
+      },
+      "sameAs": [
+        "https://www.instagram.com/inventomo.technologies/",
+        "https://www.youtube.com/@Inventomo-tech",
+        "https://www.linkedin.com/in/inventomo-technologies",
+        "https://www.pinterest.com/inventomo/",
+        "https://www.facebook.com/profile.php?id=61578841071517",
+        "https://x.com/inventomo",
+        "https://whatsapp.com/channel/0029Vb6gB3JHwXb7D3WET225",
+        "https://github.com/inventomo",
+        "https://linktr.ee/inventomo"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Inventomo Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Web Design" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Web Development" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SEO Services" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Shopify Development" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "WordPress Development" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Digital Marketing" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Chatbot Development" } }
+        ]
+      }
+    },
+
+    {
+      "@type": "WebSite",
+      "@id": "https://inventomo.site/#website",
+      "url": "https://inventomo.site",
+      "name": "Inventomo",
+      "publisher": {
+        "@id": "https://inventomo.site/#business"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://inventomo.site/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://inventomo.site/Legal/Privacy-Policy.html",
+      "name": "Privacy Policy — Inventomo",
+      "url": "https://inventomo.site/Legal/Privacy-Policy.html",
+      "description": "Explains how Inventomo collects, uses, and protects personal data.",
+      "isPartOf": {
+        "@id": "https://inventomo.site/#website"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://inventomo.site/Legal/Terms-of-service.html",
+      "name": "Terms of Service — Inventomo",
+      "url": "https://inventomo.site/Legal/Terms-of-service.html",
+      "description": "Terms and conditions governing the use of Inventomo services.",
+      "isPartOf": {
+        "@id": "https://inventomo.site/#website"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://inventomo.site/Legal/Disclaimer.html",
+      "name": "Disclaimer — Inventomo",
+      "url": "https://inventomo.site/Legal/Disclaimer.html",
+      "description": "Legal disclaimer outlining limitations of liability and content use.",
+      "isPartOf": {
+        "@id": "https://inventomo.site/#website"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://inventomo.site/Legal/Cookie-Policy.html",
+      "name": "Cookie Policy — Inventomo",
+      "url": "https://inventomo.site/Legal/Cookie-Policy.html",
+      "description": "Details how Inventomo uses cookies and tracking technologies.",
+      "isPartOf": {
+        "@id": "https://inventomo.site/#website"
+      }
+    }
+
+  ]
+}

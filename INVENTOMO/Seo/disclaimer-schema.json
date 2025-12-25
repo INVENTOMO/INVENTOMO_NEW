@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Disclaimer — Inventomo",
+  "url": "https://inventomo.site/Legal/Disclaimer.html",
+  "description": "Disclaimer page for Inventomo covering limitations of liability, accuracy, and use of content.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inventomo",
+    "url": "https://inventomo.site",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://inventomo.site/assests/img/inventomo_white.png"
+    }
+  }
+}

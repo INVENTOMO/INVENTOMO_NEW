@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Cookie Policy — Inventomo",
+  "url": "https://inventomo.site/Legal/Cookie-Policy.html",
+  "description": "Learn how Inventomo uses cookies on our website to improve user experience and performance.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inventomo",
+    "url": "https://inventomo.site",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://inventomo.site/assests/img/inventomo_white.png"
+    }
+  }
+}

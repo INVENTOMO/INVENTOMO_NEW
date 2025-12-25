@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Block sensitive or unnecessary system folders
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /login/
+
+# Allow important assets for SEO
+Allow: *.css
+Allow: *.js
+Allow: *.png
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.webp
+Allow: *.svg
+
+# Sitemap location
+Sitemap: https://inventomo.site/sitemap.xml

@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Inventomo",
+  "description": "Modern Web Design & Development Agency creating pixel-perfect websites with black & white designs.",
+  "url": "https://inventomo.site",
+  "logo": "https://inventomo.site/assests/img/inventomo_white.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Remote",
+    "addressCountry": "Worldwide"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+923291705576",
+    "contactType": "Customer Service",
+    "email": "inventomo.sales@gmail.com",
+   "availableLanguage": ["English,Arabic,Mandarin Chinese,Hindi,Spanish,Bengali,Portuguese,Russian,Urdu,Indonesian,Japanese,German,French,Swahili,Turkish,Korean,Italian,Thai,Vietnamese,Polish,Dutch,Persian (Farsi),Pashto,Malay,Filipino (Tagalog),Tamil,Telugu,Kannada,Gujarati,Marathi,Punjabi,Hausa,Amharic,Hebrew,Greek,Czech,Swedish,Norwegian,Danish,Finnish,Romanian,Serbian,Croatian,Bosnian,Ukrainian,Hungarian,Bulgarian,Slovak,Slovenian,Lithuanian,Latvian,Estonian,Afrikaans,Zulu,Xhosa,Mehri,Soqotri,Odia,Assamese,Konkani,Kashmiri,Manipuri,Sindhi,Santhali,Gujrati"]
+  },
+  "sameAs": [
+    "https://www.instagram.com/inventomo.technologies/",
+    "https://www.youtube.com/@Inventomo-tech",
+    "https://www.linkedin.com/in/inventomo-technologies",
+    "https://www.pinterest.com/inventomo/",
+    "https://www.facebook.com/profile.php?id=61578841071517",
+    "https://x.com/inventomo",
+    "https://whatsapp.com/channel/0029Vb6gB3JHwXb7D3WET225",
+    "https://github.com/inventomo",
+    "https://linktr.ee/inventomo"
+  ],
+  "priceRange": "$$$-premium-&-affordable",
+  "openingHours": "Open 24/7 - All year round",
+  "serviceType": [
+    "Web Design",
+    "Web Development",
+    "SEO Services",
+    "Graphic Design",
+    "Shopify Development",
+    "WordPress Development",
+    "Digital Marketing",
+    "Chatbot Development"
+  ]
+}

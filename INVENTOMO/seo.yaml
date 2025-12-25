@@ -1,0 +1,98 @@
+site:
+  name: "Inventomo - AI Powered Web Agency"
+  url: "https://inventomo.site"
+  description: "Dubai's #1 AI-Powered Web Agency providing custom web development, SEO optimization, AI integration, digital marketing, hosting, Shopify, WordPress development, and chatbot solutions."
+  language: "en"
+  canonical_url: "https://inventomo.site"
+  meta:
+    keywords:
+      - Web Development Dubai
+      - SEO Services Dubai
+      - AI Integration Agency
+      - Digital Marketing Agency
+      - Shopify Store Development
+      - WordPress Development
+      - Graphic Design Agency
+      - Chatbot Development
+      - Web Hosting Dubai
+    og:
+      title: "Inventomo — AI Powered Web Agency"
+      description: "Pixel-perfect websites, AI integration, SEO optimization, digital marketing, Shopify & WordPress development, hosting, and chatbot solutions."
+      type: "website"
+      url: "https://inventomo.site"
+      image: "https://inventomo.site/assests/img/inventomo_white.png"
+    twitter:
+      card: "summary_large_image"
+      title: "Inventomo — AI Powered Web Agency"
+      description: "Modern web development, AI integration, SEO, digital marketing, Shopify & WordPress solutions."
+      image: "https://inventomo.site/assests/img/inventomo_white.png"
+
+services:
+  web_development:
+    url: "https://inventomo.site/#service"
+    title: "Custom Web Development"
+    description: "Dubai-based AI-powered web development creating modern, responsive, and high-performance websites."
+  
+  seo_optimization:
+    url: "https://inventomo.site/#service"
+    title: "SEO Optimization"
+    description: "Professional SEO services to increase rankings, drive organic traffic, and boost business visibility in Dubai and globally."
+  
+  graphic_designing:
+    url: "https://inventomo.site/#service"
+    title: "Graphic Designing"
+    description: "Creative branding, logo design, and visual identity services to enhance brand recognition."
+  
+  ai_integration:
+    url: "https://inventomo.site/#service"
+    title: "AI Integration"
+    description: "Smart AI-powered automation, chatbots, and workflows to improve business efficiency and customer engagement."
+  
+  digital_marketing:
+    url: "https://inventomo.site/#service"
+    title: "Digital Marketing"
+    description: "Targeted marketing campaigns to increase visibility, drive conversions, and maximize ROI for all businesses."
+  
+  web_hosting:
+    url: "https://inventomo.site/#service"
+    title: "Web Hosting"
+    description: "Secure, fast, and scalable hosting with 99.9% uptime and 24/7 professional support."
+  
+  shopify_development:
+    url: "https://inventomo.site/#service"
+    title: "Shopify Development"
+    description: "Custom Shopify stores optimized for performance, user experience, and conversions."
+  
+  wordpress_development:
+    url: "https://inventomo.site/#service"
+    title: "WordPress Development"
+    description: "Custom WordPress websites, themes, and plugins with full CMS control and scalable solutions."
+  
+  chatbot_development:
+    url: "https://inventomo.site/#service"
+    title: "Chatbot Development"
+    description: "AI-powered chatbots for customer support, sales, and automation to save time and increase engagement."
+
+schema:
+  enabled: true
+  organization:
+    "@context": "https://schema.org"
+    "@type": "Organization"
+    "name": "Inventomo"
+    "url": "https://inventomo.site"
+    "logo": "https://inventomo.site/assests/img/inventomo_white.png"
+    "sameAs":
+      - "https://facebook.com/inventomo"
+      - "https://instagram.com/inventomo"
+      - "https://linkedin.com/company/inventomo"
+      - "https://twitter.com/inventomo"
+      - "https://youtube.com/@inventomo"
+    "contactPoint":
+      "@type": "ContactPoint"
+      "telephone": "+971501234567"
+      "contactType": "Customer Service"
+      "email": "hello@inventomo.site"
+      "availableLanguage": ["Every Language Supported!"]
+    "priceRange": "$$$-Reliable"
+    "openingHours": "Open 24/7 - All year round, serving clients globally"
+    "description": "Dubai-based First AI-powered web agency offering web development, SEO, digital marketing, AI integration, Shopify & WordPress solutions, hosting, and chatbot development."

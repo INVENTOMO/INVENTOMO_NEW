@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Our Work",
+  "url": "https://inventomo.site/our-work",
+  "description": "A showcase of projects by INVENTOMO, including web development, AI integration, graphic design, digital marketing, and more.",
+  "mainEntity": [
+    {
+      "@type": "CreativeWork",
+      "name": "Project Name 1",
+      "url": "https://inventomo.site/our-work/project-1",
+      "image": "https://inventomo.site/images/project1.png",
+      "description": "Web development project for a client, featuring custom UI/UX, responsive design, and high performance."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Project Name 2",
+      "url": "https://inventomo.site/our-work/project-2",
+      "image": "https://inventomo.site/images/project2.png",
+      "description": "AI integration project with custom chatbot, workflow automation, and predictive analytics."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Project Name 3",
+      "url": "https://inventomo.site/our-work/project-3",
+      "image": "https://inventomo.site/images/project3.png",
+      "description": "Graphic design and branding project, including logo design, visual identity, and marketing materials."
+    }
+  ]
+}

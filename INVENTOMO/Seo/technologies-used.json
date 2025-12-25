@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "INVENTOMO",
+  "url": "https://inventomo.site",
+  "description": "INVENTOMO is a digital agency specializing in web development, SEO optimization, AI integration, digital marketing, hosting, eCommerce, and chatbot solutions.",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Technologies & Services Used by INVENTOMO",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Web Development",
+          "description": "Frontend and backend web development using modern frameworks, APIs, databases, and professional development workflows.",
+          "provider": { "@type": "Organization", "name": "INVENTOMO" },
+          "serviceType": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap",
+            "Tailwind CSS",
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "phpMyAdmin",
+            "SQL",
+            "Git",
+            "GitHub",
+            "React",
+            "Vue.js",
+            "REST APIs",
+            "GraphQL APIs",
+            "Webpack",
+            "Babel",
+            "ESLint",
+            "Cross-browser Testing",
+            "Responsive Design Audit"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "SEO Optimization",
+          "description": "Advanced SEO strategies focused on technical performance, content visibility, analytics, and search engine compliance.",
+          "serviceType": [
+            "Google Analytics",
+            "Google Search Console",
+            "Ahrefs",
+            "SEMrush",
+            "Moz",
+            "Microsoft Clarity",
+            "On-page SEO",
+            "Off-page SEO",
+            "Technical SEO",
+            "Schema Markup",
+            "Meta Tags Optimization",
+            "Core Web Vitals Optimization",
+            "Crawl Budget Management",
+            "Robots.txt Strategy",
+            "XML Sitemap Strategy",
+            "Link Audits"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Graphic Designing",
+          "description": "Professional graphic design services for branding, web, print, and digital marketing assets.",
+          "serviceType": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Canva",
+            "Figma",
+            "Photopea",
+            "JPEG",
+            "PNG",
+            "SVG",
+            "WebP",
+            "PDF",
+            "Layer Management",
+            "Vector Optimization",
+            "Color Accessibility Checks",
+            "Web & Print Export Optimization"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI Integration",
+          "description": "AI-powered solutions including automation, LLM integration, and intelligent agents.",
+          "serviceType": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "OpenAI API",
+            "ChatGPT",
+            "DALL·E",
+            "GPT Models",
+            "LLaMA",
+            "Claude",
+            "Mistral",
+            "Falcon",
+            "Zapier",
+            "Make (Integromat)",
+            "Custom AI Agents",
+            "Model Fine-tuning",
+            "Prompt Engineering",
+            "AI Pipeline Integration",
+            "API Security",
+            "Batch Processing",
+            "Logging & Monitoring"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Digital Marketing",
+          "description": "Data-driven digital marketing campaigns with advanced tracking, analytics, and optimization.",
+          "serviceType": [
+            "Meta Ads",
+            "Google Ads",
+            "LinkedIn Ads",
+            "TikTok Ads",
+            "Google Analytics",
+            "Microsoft Clarity",
+            "Google Tag Manager",
+            "Meta Pixel",
+            "Cookies Tracking",
+            "Conversion Funnels",
+            "A/B Testing",
+            "Heatmaps",
+            "UTM Tracking",
+            "Dynamic Retargeting",
+            "Landing Page Optimization",
+            "Attribution Models"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Web Hosting",
+          "description": "Secure and scalable web hosting solutions with cloud infrastructure and monitoring.",
+          "serviceType": [
+            "cPanel",
+            "Apache",
+            "Nginx",
+            "Cloud Panel",
+            "AWS",
+            "DigitalOcean",
+            "Shared Hosting",
+            "VPS",
+            "SSL Certificates",
+            "Cloudflare CDN",
+            "FTP",
+            "SFTP",
+            "Automated Backups",
+            "Snapshots",
+            "Server-side Caching",
+            "Monitoring & Alerts"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Shopify Development",
+          "description": "Custom Shopify store development with automation, analytics, and payment integrations.",
+          "serviceType": [
+            "Liquid",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Shopify CLI",
+            "Shopify Apps",
+            "ThemeKit",
+            "Payment Gateways",
+            "APIs",
+            "Analytics",
+            "Tag Manager",
+            "Conversion Tracking",
+            "Shopify Flow Automation",
+            "Multi-Currency Setup"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "WordPress Development",
+          "description": "Custom WordPress development focused on performance, security, and scalability.",
+          "serviceType": [
+            "PHP",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "WordPress CMS",
+            "Elementor",
+            "Advanced Custom Fields",
+            "WooCommerce",
+            "MySQL",
+            "phpMyAdmin",
+            "Security Hardening",
+            "Caching",
+            "Lazy Loading",
+            "SEO Integration",
+            "Multi-site Management"
+          ]
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Chatbot Development",
+          "description": "AI-powered chatbot solutions integrated across websites and messaging platforms.",
+          "serviceType": [
+            "Python",
+            "JavaScript",
+            "Dialogflow",
+            "Microsoft Bot Framework",
+            "OpenAI API",
+            "Rasa",
+            "WhatsApp API",
+            "Slack",
+            "Messenger",
+            "NLP Optimization",
+            "Multi-language Support",
+            "Conversation Logging",
+            "Automated Reporting",
+            "CRM Integration",
+            "AI-driven Recommendations"
+          ]
+        }
+      }
+    ]
+  }
+}

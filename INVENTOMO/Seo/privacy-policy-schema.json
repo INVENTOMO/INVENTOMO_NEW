@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Privacy Policy — Inventomo",
+  "url": "https://inventomo.site/Legal/Privacy-Policy.html",
+  "description": "This Privacy Policy explains how Inventomo collects, uses, and protects your information when you interact with our website and services.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inventomo",
+    "url": "https://inventomo.site",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://inventomo.site/assests/img/inventomo_white.png"
+    }
+  }
+}
